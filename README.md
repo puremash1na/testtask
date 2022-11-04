@@ -1,6 +1,6 @@
-Test task with User class
-App/Models/Users.php - class
-App/Http/Controllers/UsersController - controler
+Test task with User class<br>
+App/Models/Users.php - class<br>
+App/Http/Controllers/UsersController - controler<br>
 
 database - mysql 8<br>
 table users<br>
